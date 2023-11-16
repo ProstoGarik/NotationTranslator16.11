@@ -1,2 +1,3 @@
 # NotationTranslator16.11
-В readme файле написал что добавил
+Реализовал методы FromDecimalToNotationTo и FromNotationFromToDecimal (только для работы с целыми числами)
+Сделал тест в консоли в NumberNotationTranslatorTest
